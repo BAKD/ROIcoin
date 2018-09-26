@@ -1,7 +1,7 @@
 <img src="https://bakd.io/images/logo.png" width="600" style="text-align: center;">
 
 > * __Info Website:__ [https://bakd.io](https://bakd.io)
-> * __Alpha Website::__ [https://bakd.me](https://bakd.me)
+> * __Alpha Website:__ [https://bakd.me](https://bakd.me)
 > * __Twitter:__ [https://twitter.com/BAKDme](https://twitter.com/BAKDme)
 > * __Discord:__ [https://discord.gg/rADpPXp](https://discord.gg/rADpPXp)
 > * __Telegram Group:__ [https://t.me/BAKDio](https://t.me/BAKDio)
