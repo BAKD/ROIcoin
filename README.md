@@ -1,4 +1,4 @@
-<img src="https://bakd.io/images/logo.png" width="600" style="text-align: center;">
+<img src="https://bakd.io/images/logo.png" width="800">
 
 > * __Info Website:__ [https://bakd.io](https://bakd.io)
 > * __Alpha Website:__ [https://bakd.me](https://bakd.me)
