@@ -30,3 +30,25 @@
 > -  30 day limit encourages fixed staking, reducing supply and increasing demand.
 > -  Encourages exchanges to trade in the coin, as they can earn interest on customer's deposits.
 > -  Unconfirmed transactions become more valuable over time, as their inputs continue to earn interest. 
+
+### Coin Specifications
+> -  Coin Codebase: Fork of ROICoin
+> -  Max Coin Supply: 5,000,000,000
+> -  Algorithm: 1 GB AES Pattern Search
+> -  Block Size: 1 MB
+> -  Max Transaction Size: 250 KB
+> -  Block Confirmations Required: 150
+> -  Block Timing: 2 Minutes
+> -  Pre-Mine: 10% (500,000,000)
+> -  Block POW Mining Reward: 100 BAKD Coins (no halving)
+> -  Mining: CPU Only, Solo Mining From The Wallet With One Mouse Click
+
+### Fixed Staking Terms
+> -  Standard POS Reward: Approximately 10% APR
+> -  Standard Term Staking Rewards: (7 days up to 1 year)
+> -  1 Week Fixed Staking Term 0.25% (13% APR)
+> -  2 Week Fixed Staking Term 0.6% (15.6% APR)
+> -  1 Month Fixed Staking Term 1.4% (16.8% APR)
+> -  3 Month Fixed Staking Term 4.5% (18% APR)
+> -  6 Month Fixed Staking Term 11% (22% APR)
+> -  12 Month Fixed Staking Term 25%
