@@ -6,8 +6,8 @@
 > * __Discord:__ [https://discord.gg/rADpPXp](https://discord.gg/rADpPXp)
 > * __Telegram Group:__ [https://t.me/BAKDio](https://t.me/BAKDio)
 > * __Telegram Announcements:__ [http://t.me/BAKDme](http://t.me/BAKDme)
-> * __Bitcointalk ANN:__ []()
-> * __Blockexplorer 1:__ Coming Soon
+> * __Bitcointalk ANN:__ [https://bitcointalk.org/index.php?topic=4952711](https://bitcointalk.org/index.php?topic=4952711)
+> * __Block Explorer:__ Coming Soon
 > * __White Paper:__ Coming Soon
 > * __Roadmap:__ [https://bakd.io/docs/roadmap-eng.png](https://bakd.io/docs/roadmap-eng.png)
 
