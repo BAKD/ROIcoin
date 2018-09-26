@@ -22,17 +22,11 @@
 
 ### Benefits:
 
+> -  BAKD Coins must be used to participate in any BAKD Crowdfunding Campaigns.
 > -  Exciting for Stakeholder to see their balances continually increase as each block is received.
 > -  Interest discourages users from leaving large balances on exchanges - expensive to maintain large sell walls.
 > -  Interest encourages users to keep their balances, reducing supply while increasing market demand.
 > -  30 day limit will dilute abandoned balances, reducing supply.
-> -  30 day limit encourages term deposits, reducing supply and increasing demand.
+> -  30 day limit encourages fixed staking, reducing supply and increasing demand.
 > -  Encourages exchanges to trade in the coin, as they can earn interest on customer's deposits.
 > -  Unconfirmed transactions become more valuable over time, as their inputs continue to earn interest. 
-
-### Deposit Interest
-
-> - Paid on Term Deposits (aka Fixed deposit / time deposit)
-> - Regular deposits can have a maximum of 1 year interest
-
-__More information coming ASAP__
